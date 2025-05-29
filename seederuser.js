@@ -8,7 +8,7 @@ const usersData = [
     {
         id: '1',
         name: 'YANKINE aicha',
-        email: 'konate@gmail.com',
+        email: 'yankine76@gmail.com',
         // password: '1234',
         password: '$2y$10$XeSLrnuqroN1HwyWdnPD4ecmfc2TJPA7UT.gBp1x0ABo90GB0Go2O',
         role: 'admin',
@@ -16,8 +16,8 @@ const usersData = [
     },
     {
         id: '2',
-        name: 'kone',
-        email: 'kone@gmail.com',
+        name: 'Deby ',
+        email: 'deby@gmail.com',
         // password: '1234',S
         password: '$2y$10$XeSLrnuqroN1HwyWdnPD4ecmfc2TJPA7UT.gBp1x0ABo90GB0Go2O',
         role: 'user',
